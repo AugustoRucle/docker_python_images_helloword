@@ -7,4 +7,4 @@ To build the example image of python container you need to do the following:
 >docker run --name docker.python -p 5000:5000 docker.python.image
 
 Now if you run this example with docker toolbox also you have to put ip address of your docker toolbox instead of localhost:5000 if you 
-don't do that you could not watch anything
+don't do that you could not see anything
